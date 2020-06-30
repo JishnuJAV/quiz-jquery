@@ -1,0 +1,65 @@
+.containar2{
+    border-radius: 15px;
+    background-color:whitesmoke;
+    font-size: medium;
+    text-align: center;
+    color: blue;
+    font-style: italic;
+    padding: 200px;
+  }
+.container1{
+    border-radius: 15px;
+    background-color:rgb(236, 229, 229);
+    font-style: italic;
+    font-size: medium;
+    padding: 20px;
+  }
+.applycss{
+    font-size: 100px;
+    font-weight: bold;
+    color:rgb(255, 0, 149);
+  }
+.greatjob{
+ font-size: 100px;
+ font-weight: bold;
+ color:red;
+}
+.justokey{
+  font-size: 50px;
+  font-weight: bold;
+  color:orange;
+}
+.ItsOkey{
+  font-size: 25px;
+  font-weight: bold;
+  color:yellow;
+}
+.dobetter{
+  font-size: 25px;
+  font-weight: bold;
+  color:greenyellow;
+}
+
+input[type="radio"]{
+  padding: 12px 20px;
+  margin: 8px 0;
+  /* display: inline-block; */
+  border: 1px solid #cccccc;
+  border-radius: 2px;
+  box-sizing: border-box;
+}
+
+input[type="button"]{
+    width: 100%;
+    background-color: rgb(6, 136, 136);
+    color: rgb(182, 179, 179);
+    padding: 14px 20px;
+    margin: 8px 0;
+    font-weight: bold;
+    border: none;
+    border-radius: 1px;
+    cursor: pointer;
+}
+input[type="button"]:hover{
+    background-color: rgb(88, 124, 106);
+}
